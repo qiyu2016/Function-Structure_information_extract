@@ -2,4 +2,4 @@
 
 
 Preprocessing_corpus.py   --->  Running this code by Lu Run
-
+Patent_extract.py   --->  Running this code by Ni Ruixue
